@@ -1,0 +1,9 @@
+﻿# credentials and local junk - never commit
+*.txt
+!README.txt
+token*
+.gh_token
+.env
+.env.*
+Thumbs.db
+.DS_Store
